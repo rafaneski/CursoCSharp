@@ -1,0 +1,8 @@
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Funções\Funções\bin\Debug\Funções.exe.config
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Funções\Funções\bin\Debug\Funções.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Funções\Funções\bin\Debug\Funções.pdb
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Funções\Funções\obj\Debug\Funções.csproj.AssemblyReference.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Funções\Funções\obj\Debug\Funções.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Funções\Funções\obj\Debug\Funções.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Funções\Funções\obj\Debug\Funções.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Funções\Funções\obj\Debug\Funções.pdb
