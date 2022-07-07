@@ -1,0 +1,8 @@
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosFuncoes\ExerciciosFuncoes\bin\Debug\ExerciciosFuncoes.exe.config
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosFuncoes\ExerciciosFuncoes\bin\Debug\ExerciciosFuncoes.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosFuncoes\ExerciciosFuncoes\bin\Debug\ExerciciosFuncoes.pdb
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosFuncoes\ExerciciosFuncoes\obj\Debug\ExerciciosFuncoes.csproj.AssemblyReference.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosFuncoes\ExerciciosFuncoes\obj\Debug\ExerciciosFuncoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosFuncoes\ExerciciosFuncoes\obj\Debug\ExerciciosFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosFuncoes\ExerciciosFuncoes\obj\Debug\ExerciciosFuncoes.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosFuncoes\ExerciciosFuncoes\obj\Debug\ExerciciosFuncoes.pdb
