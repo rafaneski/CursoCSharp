@@ -1,0 +1,8 @@
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Estudos\Estudos\bin\Debug\Estudos.exe.config
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Estudos\Estudos\bin\Debug\Estudos.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Estudos\Estudos\bin\Debug\Estudos.pdb
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Estudos\Estudos\obj\Debug\Estudos.csproj.AssemblyReference.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Estudos\Estudos\obj\Debug\Estudos.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Estudos\Estudos\obj\Debug\Estudos.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Estudos\Estudos\obj\Debug\Estudos.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Estudos\Estudos\obj\Debug\Estudos.pdb
