@@ -1,0 +1,8 @@
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosRepeticao\ExerciciosRepeticao\bin\Debug\ExerciciosRepeticao.exe.config
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosRepeticao\ExerciciosRepeticao\bin\Debug\ExerciciosRepeticao.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosRepeticao\ExerciciosRepeticao\bin\Debug\ExerciciosRepeticao.pdb
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosRepeticao\ExerciciosRepeticao\obj\Debug\ExerciciosRepeticao.csproj.AssemblyReference.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosRepeticao\ExerciciosRepeticao\obj\Debug\ExerciciosRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosRepeticao\ExerciciosRepeticao\obj\Debug\ExerciciosRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosRepeticao\ExerciciosRepeticao\obj\Debug\ExerciciosRepeticao.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\ExerciciosRepeticao\ExerciciosRepeticao\obj\Debug\ExerciciosRepeticao.pdb
