@@ -1,0 +1,8 @@
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Projetos\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Projetos\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Projetos\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
