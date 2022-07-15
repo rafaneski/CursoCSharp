@@ -16,12 +16,12 @@ namespace ExerciciosRepeticao
             //boas vindas para os 10 alunos novos, utilizando a estrutura Foreach exiba a mesma
             //mensagem para todos os alunos novos.
 
-            string[] alunos = { "Pedro", "Viktor", "Rafael", "Murillo", "Vitória", "Antonio", "Lucas", "Iran", "Well", "Mag" };
+            //string[] alunos = { "Pedro", "Viktor", "Rafael", "Murillo", "Vitória", "Antonio", "Lucas", "Iran", "Well", "Mag" };
 
-            foreach (string aluno in alunos)
-            {
-                Console.WriteLine("Bem vindo " + aluno + "!");
-            }
+            //foreach (string aluno in alunos)
+            //{
+            //Console.WriteLine("Bem vindo " + aluno + "!");
+            //}
 
 
             #endregion
@@ -140,6 +140,44 @@ namespace ExerciciosRepeticao
             //    Console.WriteLine("Os numeros são iguais!");
             //}
 
+
+            #endregion
+
+
+            #region Ex7
+            //Melhor aluno da turma
+            //Usuario insere o nome e a nota dos alunos e o código diz quem foi o melhor da turma
+
+            int index = 0;
+            float maiorNota = 0;
+            string melhorAluno = "";
+
+            Console.WriteLine("======================");
+            Console.WriteLine("Escola Santa Paciência");
+            Console.WriteLine("======================");
+
+            Console.Write("Quantos alunos a turma tem?: ");
+            int quant = int.Parse(Console.ReadLine());
+
+            while (index < quant)
+            {
+                Console.WriteLine("------------------");
+                Console.WriteLine($"Aluno {index + 1}");
+                Console.Write("Nome do aluno: ");
+                string aluno = Console.ReadLine();
+
+                Console.Write($"Nota de {aluno}: ");
+                float nota = float.Parse(Console.ReadLine());
+
+                if (nota > maiorNota)
+                {
+                    maiorNota = nota;
+                    melhorAluno = aluno;
+                }
+
+                index++;
+            }
+            Console.WriteLine($"O melhor aluno foi o {melhorAluno}, que tirou {maiorNota}");
 
             #endregion
 

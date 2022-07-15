@@ -38,6 +38,7 @@ namespace EstudandoStructs
             //funções em structs
             public void ExibirInfos()
             {
+                this.nome = Console.ReadLine();
                 Console.WriteLine($"Nome: {this.nome}");
                 Console.WriteLine($"Peso: {this.peso} Kg");
                 Console.WriteLine($"Preço: R$ {this.preço}");
@@ -61,7 +62,7 @@ namespace EstudandoStructs
             //voce pode criar uma funcao no struct e chama-la em qualquer lugar da struct
             public void Exemplo()
             {
-                Console.WriteLine("TESTE");
+            
             }
         }
 
