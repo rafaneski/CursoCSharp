@@ -1,0 +1,8 @@
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Exercicios&Resolução\ExStructs\ExStructs\bin\Debug\ExStructs.exe.config
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Exercicios&Resolução\ExStructs\ExStructs\bin\Debug\ExStructs.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Exercicios&Resolução\ExStructs\ExStructs\bin\Debug\ExStructs.pdb
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Exercicios&Resolução\ExStructs\ExStructs\obj\Debug\ExStructs.csproj.AssemblyReference.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Exercicios&Resolução\ExStructs\ExStructs\obj\Debug\ExStructs.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Exercicios&Resolução\ExStructs\ExStructs\obj\Debug\ExStructs.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Exercicios&Resolução\ExStructs\ExStructs\obj\Debug\ExStructs.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Exercicios&Resolução\ExStructs\ExStructs\obj\Debug\ExStructs.pdb
