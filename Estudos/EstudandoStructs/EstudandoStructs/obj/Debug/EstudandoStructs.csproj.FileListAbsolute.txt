@@ -1,0 +1,8 @@
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Estudos\EstudandoStructs\EstudandoStructs\bin\Debug\EstudandoStructs.exe.config
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Estudos\EstudandoStructs\EstudandoStructs\bin\Debug\EstudandoStructs.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Estudos\EstudandoStructs\EstudandoStructs\bin\Debug\EstudandoStructs.pdb
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Estudos\EstudandoStructs\EstudandoStructs\obj\Debug\EstudandoStructs.csproj.AssemblyReference.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Estudos\EstudandoStructs\EstudandoStructs\obj\Debug\EstudandoStructs.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Estudos\EstudandoStructs\EstudandoStructs\obj\Debug\EstudandoStructs.csproj.CoreCompileInputs.cache
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Estudos\EstudandoStructs\EstudandoStructs\obj\Debug\EstudandoStructs.exe
+C:\Users\RAFAEL\Documents\Programação\CursoCSHARP\CursoCSharp\Estudos\EstudandoStructs\EstudandoStructs\obj\Debug\EstudandoStructs.pdb
