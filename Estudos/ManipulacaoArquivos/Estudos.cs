@@ -17,6 +17,7 @@ namespace Estudando
             public float preco;
         }
 
+        //Se for copiar e colar o código para estudar, comente as regions que não estiver estudando para não dar erros. Sempre compile 3 regions e estude uma.
 
         static void Main(string[] args)
         {
