@@ -1,9 +1,10 @@
-//Exemplo de classe, atributos e métodos:
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
+//Exemplo de classe, atributos e métodos:
 
 //As classes, alem de servirem para separar o programa em blocos logicos, elas tambem servem para definir novos tipos
 class Jogo //Classe
